@@ -1,0 +1,16 @@
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\bin\Debug\MironovPP.exe.config
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\bin\Debug\MironovPP.exe
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\bin\Debug\MironovPP.pdb
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.csproj.AssemblyReference.cache
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.Admin.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.Employee.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.Form1.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.Properties.Resources.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.Registration.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.Specialist.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.User.resources
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.csproj.GenerateResource.cache
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.csproj.CoreCompileInputs.cache
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.exe
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.pdb
+C:\Users\ivolg\source\repos\MironovPP\MironovPP\obj\Debug\MironovPP.WareHouse.resources
